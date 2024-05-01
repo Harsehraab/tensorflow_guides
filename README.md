@@ -4,3 +4,4 @@ Guide to install tensorflow 2.6 and jupyter notebook with gpu support in an anco
 https://github.com/Harsehraab/tensorflow_guides/blob/main/tensorflow-2.6-gpu-conda-install.docx
 
 Guide to manage your gpu with tensorflow
+https://github.com/Harsehraab/tensorflow_guides/blob/main/gpu_management_guide.ipynb
